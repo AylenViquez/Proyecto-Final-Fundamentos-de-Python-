@@ -1,0 +1,652 @@
+Fecha de Venta,Producto,Precio,Kilos Vendidos
+3/1/2025,Arroz 99,875,17.65
+3/1/2025,Arroz 95,825,16.31
+3/1/2025,Arroz 80,750,27.92
+3/1/2025,Frijoles Negros,1300,27.04
+3/1/2025,Frijoles rojos,1300,15.94
+3/1/2025,Kalima,2800,26.53
+3/1/2025,Lentejas,1500,19.14
+3/1/2025,Garbanzos,1500,14.58
+3/1/2025,Cubases,4100,13.98
+3/1/2025,Frijol Matequilla,2400,15.78
+3/1/2025,Frijoles Blancos,1350,12.38
+3/1/2025,Frijoles ABA,2400,14.35
+3/1/2025,Harina,850,21.12
+3/1/2025,Masa,900,12.1
+3/1/2025,Masa Blanca,1250,27.8
+3/1/2025,Alberjas,1350,20.41
+3/1/2025,Palomitas de Maiz,1100,13.02
+3/1/2025,Maiz Blanco,600,11.27
+3/1/2025,Maiz Cascadp Blanco,800,21.41
+3/1/2025,Maiz Cascado Amarillo,800,29.66
+3/1/2025,Arroz Precocido,1100,24.56
+3/2/2025,Arroz 99,875,16.61
+3/2/2025,Arroz 95,825,25.9
+3/2/2025,Arroz 80,750,11.35
+3/2/2025,Frijoles Negros,1300,20.94
+3/2/2025,Frijoles rojos,1300,15.7
+3/2/2025,Kalima,2800,18.89
+3/2/2025,Lentejas,1500,12.21
+3/2/2025,Garbanzos,1500,10.82
+3/2/2025,Cubases,4100,20.63
+3/2/2025,Frijol Matequilla,2400,21.39
+3/2/2025,Frijoles Blancos,1350,22.87
+3/2/2025,Frijoles ABA,2400,25.67
+3/2/2025,Harina,850,20.92
+3/2/2025,Masa,900,18.52
+3/2/2025,Masa Blanca,1250,19.5
+3/2/2025,Alberjas,1350,13.97
+3/2/2025,Palomitas de Maiz,1100,21.38
+3/2/2025,Maiz Blanco,600,17.35
+3/2/2025,Maiz Cascadp Blanco,800,10.79
+3/2/2025,Maiz Cascado Amarillo,800,22.16
+3/2/2025,Arroz Precocido,1100,20.9
+3/3/2025,Arroz 99,875,29.45
+3/3/2025,Arroz 95,825,29.1
+3/3/2025,Arroz 80,750,12.61
+3/3/2025,Frijoles Negros,1300,13.41
+3/3/2025,Frijoles rojos,1300,27.4
+3/3/2025,Kalima,2800,23.1
+3/3/2025,Lentejas,1500,21.52
+3/3/2025,Garbanzos,1500,23.73
+3/3/2025,Cubases,4100,16.13
+3/3/2025,Frijol Matequilla,2400,20.35
+3/3/2025,Frijoles Blancos,1350,10.25
+3/3/2025,Frijoles ABA,2400,20.96
+3/3/2025,Harina,850,20.05
+3/3/2025,Masa,900,12.39
+3/3/2025,Masa Blanca,1250,21.55
+3/3/2025,Alberjas,1350,11.71
+3/3/2025,Palomitas de Maiz,1100,19.49
+3/3/2025,Maiz Blanco,600,13.37
+3/3/2025,Maiz Cascadp Blanco,800,19.53
+3/3/2025,Maiz Cascado Amarillo,800,27.53
+3/3/2025,Arroz Precocido,1100,21.83
+3/4/2025,Arroz 99,875,15.47
+3/4/2025,Arroz 95,825,24.65
+3/4/2025,Arroz 80,750,16.4
+3/4/2025,Frijoles Negros,1300,20.83
+3/4/2025,Frijoles rojos,1300,25.96
+3/4/2025,Kalima,2800,15.66
+3/4/2025,Lentejas,1500,12.93
+3/4/2025,Garbanzos,1500,19.92
+3/4/2025,Cubases,4100,10.5
+3/4/2025,Frijol Matequilla,2400,15.19
+3/4/2025,Frijoles Blancos,1350,10.08
+3/4/2025,Frijoles ABA,2400,28.48
+3/4/2025,Harina,850,22.51
+3/4/2025,Masa,900,18.44
+3/4/2025,Masa Blanca,1250,26.4
+3/4/2025,Alberjas,1350,20.39
+3/4/2025,Palomitas de Maiz,1100,29.77
+3/4/2025,Maiz Blanco,600,11.07
+3/4/2025,Maiz Cascadp Blanco,800,13.48
+3/4/2025,Maiz Cascado Amarillo,800,16.94
+3/4/2025,Arroz Precocido,1100,28.63
+3/5/2025,Arroz 99,875,10.48
+3/5/2025,Arroz 95,825,28.89
+3/5/2025,Arroz 80,750,12.46
+3/5/2025,Frijoles Negros,1300,26.2
+3/5/2025,Frijoles rojos,1300,27.89
+3/5/2025,Kalima,2800,15.78
+3/5/2025,Lentejas,1500,19.1
+3/5/2025,Garbanzos,1500,13.97
+3/5/2025,Cubases,4100,10.71
+3/5/2025,Frijol Matequilla,2400,18.29
+3/5/2025,Frijoles Blancos,1350,21.89
+3/5/2025,Frijoles ABA,2400,27.25
+3/5/2025,Harina,850,15.13
+3/5/2025,Masa,900,10.12
+3/5/2025,Masa Blanca,1250,18.37
+3/5/2025,Alberjas,1350,22.03
+3/5/2025,Palomitas de Maiz,1100,27
+3/5/2025,Maiz Blanco,600,18.41
+3/5/2025,Maiz Cascadp Blanco,800,26.88
+3/5/2025,Maiz Cascado Amarillo,800,25.58
+3/5/2025,Arroz Precocido,1100,22.97
+3/6/2025,Arroz 99,875,27.2
+3/6/2025,Arroz 95,825,29.58
+3/6/2025,Arroz 80,750,29
+3/6/2025,Frijoles Negros,1300,21.87
+3/6/2025,Frijoles rojos,1300,14.85
+3/6/2025,Kalima,2800,16.6
+3/6/2025,Lentejas,1500,16.96
+3/6/2025,Garbanzos,1500,13.58
+3/6/2025,Cubases,4100,19.07
+3/6/2025,Frijol Matequilla,2400,25.93
+3/6/2025,Frijoles Blancos,1350,24.84
+3/6/2025,Frijoles ABA,2400,28.39
+3/6/2025,Harina,850,21.75
+3/6/2025,Masa,900,19.78
+3/6/2025,Masa Blanca,1250,27.96
+3/6/2025,Alberjas,1350,19.03
+3/6/2025,Palomitas de Maiz,1100,21.86
+3/6/2025,Maiz Blanco,600,19.19
+3/6/2025,Maiz Cascadp Blanco,800,13.14
+3/6/2025,Maiz Cascado Amarillo,800,16.94
+3/6/2025,Arroz Precocido,1100,21.63
+3/7/2025,Arroz 99,875,17.86
+3/7/2025,Arroz 95,825,12.99
+3/7/2025,Arroz 80,750,10.15
+3/7/2025,Frijoles Negros,1300,27.71
+3/7/2025,Frijoles rojos,1300,14.24
+3/7/2025,Kalima,2800,16.43
+3/7/2025,Lentejas,1500,12.77
+3/7/2025,Garbanzos,1500,24.44
+3/7/2025,Cubases,4100,27.4
+3/7/2025,Frijol Matequilla,2400,13.91
+3/7/2025,Frijoles Blancos,1350,17.93
+3/7/2025,Frijoles ABA,2400,15.6
+3/7/2025,Harina,850,13.94
+3/7/2025,Masa,900,10.3
+3/7/2025,Masa Blanca,1250,27.44
+3/7/2025,Alberjas,1350,18.93
+3/7/2025,Palomitas de Maiz,1100,27.72
+3/7/2025,Maiz Blanco,600,20.95
+3/7/2025,Maiz Cascadp Blanco,800,26.39
+3/7/2025,Maiz Cascado Amarillo,800,19.24
+3/7/2025,Arroz Precocido,1100,13.08
+3/8/2025,Arroz 99,875,13.45
+3/8/2025,Arroz 95,825,18.46
+3/8/2025,Arroz 80,750,26.75
+3/8/2025,Frijoles Negros,1300,29.12
+3/8/2025,Frijoles rojos,1300,10.22
+3/8/2025,Kalima,2800,21.11
+3/8/2025,Lentejas,1500,24.17
+3/8/2025,Garbanzos,1500,29.79
+3/8/2025,Cubases,4100,28.19
+3/8/2025,Frijol Matequilla,2400,11.22
+3/8/2025,Frijoles Blancos,1350,24.49
+3/8/2025,Frijoles ABA,2400,28.08
+3/8/2025,Harina,850,25.54
+3/8/2025,Masa,900,26.17
+3/8/2025,Masa Blanca,1250,23.64
+3/8/2025,Alberjas,1350,28.1
+3/8/2025,Palomitas de Maiz,1100,13.61
+3/8/2025,Maiz Blanco,600,12.63
+3/8/2025,Maiz Cascadp Blanco,800,23.41
+3/8/2025,Maiz Cascado Amarillo,800,18.67
+3/8/2025,Arroz Precocido,1100,10.69
+3/9/2025,Arroz 99,875,15.98
+3/9/2025,Arroz 95,825,11.61
+3/9/2025,Arroz 80,750,23.89
+3/9/2025,Frijoles Negros,1300,22.06
+3/9/2025,Frijoles rojos,1300,24.64
+3/9/2025,Kalima,2800,18.85
+3/9/2025,Lentejas,1500,10.38
+3/9/2025,Garbanzos,1500,15.95
+3/9/2025,Cubases,4100,13.53
+3/9/2025,Frijol Matequilla,2400,18.43
+3/9/2025,Frijoles Blancos,1350,28.38
+3/9/2025,Frijoles ABA,2400,20.23
+3/9/2025,Harina,850,18.88
+3/9/2025,Masa,900,24.29
+3/9/2025,Masa Blanca,1250,25.51
+3/9/2025,Alberjas,1350,10.07
+3/9/2025,Palomitas de Maiz,1100,18.08
+3/9/2025,Maiz Blanco,600,25.31
+3/9/2025,Maiz Cascadp Blanco,800,23.19
+3/9/2025,Maiz Cascado Amarillo,800,23.8
+3/9/2025,Arroz Precocido,1100,12.12
+3/10/2025,Arroz 99,875,18.89
+3/10/2025,Arroz 95,825,16.26
+3/10/2025,Arroz 80,750,23.92
+3/10/2025,Frijoles Negros,1300,23.14
+3/10/2025,Frijoles rojos,1300,19.8
+3/10/2025,Kalima,2800,15.1
+3/10/2025,Lentejas,1500,12.58
+3/10/2025,Garbanzos,1500,16.48
+3/10/2025,Cubases,4100,26.87
+3/10/2025,Frijol Matequilla,2400,22.15
+3/10/2025,Frijoles Blancos,1350,18.39
+3/10/2025,Frijoles ABA,2400,17.57
+3/10/2025,Harina,850,20.63
+3/10/2025,Masa,900,12.46
+3/10/2025,Masa Blanca,1250,26.76
+3/10/2025,Alberjas,1350,25.7
+3/10/2025,Palomitas de Maiz,1100,14.1
+3/10/2025,Maiz Blanco,600,17.27
+3/10/2025,Maiz Cascadp Blanco,800,16.3
+3/10/2025,Maiz Cascado Amarillo,800,22.72
+3/10/2025,Arroz Precocido,1100,21.75
+3/11/2025,Arroz 99,875,23.12
+3/11/2025,Arroz 95,825,20.13
+3/11/2025,Arroz 80,750,24.37
+3/11/2025,Frijoles Negros,1300,27.26
+3/11/2025,Frijoles rojos,1300,28.02
+3/11/2025,Kalima,2800,22.39
+3/11/2025,Lentejas,1500,18.65
+3/11/2025,Garbanzos,1500,13.95
+3/11/2025,Cubases,4100,22.75
+3/11/2025,Frijol Matequilla,2400,24.69
+3/11/2025,Frijoles Blancos,1350,16.5
+3/11/2025,Frijoles ABA,2400,18.06
+3/11/2025,Harina,850,29.07
+3/11/2025,Masa,900,29.13
+3/11/2025,Masa Blanca,1250,20.93
+3/11/2025,Alberjas,1350,17.14
+3/11/2025,Palomitas de Maiz,1100,17.92
+3/11/2025,Maiz Blanco,600,12.02
+3/11/2025,Maiz Cascadp Blanco,800,18.58
+3/11/2025,Maiz Cascado Amarillo,800,25.4
+3/11/2025,Arroz Precocido,1100,19.4
+3/12/2025,Arroz 99,875,23.84
+3/12/2025,Arroz 95,825,25.57
+3/12/2025,Arroz 80,750,29.6
+3/12/2025,Frijoles Negros,1300,18.22
+3/12/2025,Frijoles rojos,1300,27.94
+3/12/2025,Kalima,2800,19.4
+3/12/2025,Lentejas,1500,28.66
+3/12/2025,Garbanzos,1500,28.01
+3/12/2025,Cubases,4100,11.01
+3/12/2025,Frijol Matequilla,2400,10.49
+3/12/2025,Frijoles Blancos,1350,29.56
+3/12/2025,Frijoles ABA,2400,25.52
+3/12/2025,Harina,850,29.79
+3/12/2025,Masa,900,11.38
+3/12/2025,Masa Blanca,1250,17.15
+3/12/2025,Alberjas,1350,10.7
+3/12/2025,Palomitas de Maiz,1100,24.88
+3/12/2025,Maiz Blanco,600,27.37
+3/12/2025,Maiz Cascadp Blanco,800,15.15
+3/12/2025,Maiz Cascado Amarillo,800,23.59
+3/12/2025,Arroz Precocido,1100,29.79
+3/13/2025,Arroz 99,875,14.93
+3/13/2025,Arroz 95,825,13.61
+3/13/2025,Arroz 80,750,17.72
+3/13/2025,Frijoles Negros,1300,11.1
+3/13/2025,Frijoles rojos,1300,12.15
+3/13/2025,Kalima,2800,14.29
+3/13/2025,Lentejas,1500,16.62
+3/13/2025,Garbanzos,1500,13.94
+3/13/2025,Cubases,4100,14.52
+3/13/2025,Frijol Matequilla,2400,12.54
+3/13/2025,Frijoles Blancos,1350,24.24
+3/13/2025,Frijoles ABA,2400,26.5
+3/13/2025,Harina,850,20.53
+3/13/2025,Masa,900,26.76
+3/13/2025,Masa Blanca,1250,29.95
+3/13/2025,Alberjas,1350,18.53
+3/13/2025,Palomitas de Maiz,1100,25.06
+3/13/2025,Maiz Blanco,600,24.09
+3/13/2025,Maiz Cascadp Blanco,800,24.78
+3/13/2025,Maiz Cascado Amarillo,800,28.25
+3/13/2025,Arroz Precocido,1100,10.02
+3/14/2025,Arroz 99,875,22.64
+3/14/2025,Arroz 95,825,19.74
+3/14/2025,Arroz 80,750,19.17
+3/14/2025,Frijoles Negros,1300,17.14
+3/14/2025,Frijoles rojos,1300,12.83
+3/14/2025,Kalima,2800,25.98
+3/14/2025,Lentejas,1500,14.76
+3/14/2025,Garbanzos,1500,19.98
+3/14/2025,Cubases,4100,27.17
+3/14/2025,Frijol Matequilla,2400,13.21
+3/14/2025,Frijoles Blancos,1350,19.23
+3/14/2025,Frijoles ABA,2400,26.96
+3/14/2025,Harina,850,19.04
+3/14/2025,Masa,900,14.85
+3/14/2025,Masa Blanca,1250,18.46
+3/14/2025,Alberjas,1350,24.35
+3/14/2025,Palomitas de Maiz,1100,12.63
+3/14/2025,Maiz Blanco,600,25.38
+3/14/2025,Maiz Cascadp Blanco,800,29.72
+3/14/2025,Maiz Cascado Amarillo,800,12.61
+3/14/2025,Arroz Precocido,1100,23.93
+3/15/2025,Arroz 99,875,14.72
+3/15/2025,Arroz 95,825,23.76
+3/15/2025,Arroz 80,750,15.49
+3/15/2025,Frijoles Negros,1300,29.55
+3/15/2025,Frijoles rojos,1300,14.12
+3/15/2025,Kalima,2800,24.7
+3/15/2025,Lentejas,1500,15.32
+3/15/2025,Garbanzos,1500,25.78
+3/15/2025,Cubases,4100,24.31
+3/15/2025,Frijol Matequilla,2400,29.52
+3/15/2025,Frijoles Blancos,1350,21.96
+3/15/2025,Frijoles ABA,2400,20.81
+3/15/2025,Harina,850,20.57
+3/15/2025,Masa,900,25.3
+3/15/2025,Masa Blanca,1250,21.4
+3/15/2025,Alberjas,1350,13.6
+3/15/2025,Palomitas de Maiz,1100,12.91
+3/15/2025,Maiz Blanco,600,16
+3/15/2025,Maiz Cascadp Blanco,800,14.66
+3/15/2025,Maiz Cascado Amarillo,800,10.56
+3/15/2025,Arroz Precocido,1100,28.58
+3/16/2025,Arroz 99,875,21.01
+3/16/2025,Arroz 95,825,21.29
+3/16/2025,Arroz 80,750,29.12
+3/16/2025,Frijoles Negros,1300,17.38
+3/16/2025,Frijoles rojos,1300,27.74
+3/16/2025,Kalima,2800,10.24
+3/16/2025,Lentejas,1500,25.55
+3/16/2025,Garbanzos,1500,22.92
+3/16/2025,Cubases,4100,10.56
+3/16/2025,Frijol Matequilla,2400,29.18
+3/16/2025,Frijoles Blancos,1350,11.52
+3/16/2025,Frijoles ABA,2400,13.9
+3/16/2025,Harina,850,12.41
+3/16/2025,Masa,900,18.59
+3/16/2025,Masa Blanca,1250,23.38
+3/16/2025,Alberjas,1350,19.67
+3/16/2025,Palomitas de Maiz,1100,15.14
+3/16/2025,Maiz Blanco,600,16.71
+3/16/2025,Maiz Cascadp Blanco,800,28.86
+3/16/2025,Maiz Cascado Amarillo,800,21.36
+3/16/2025,Arroz Precocido,1100,17.61
+3/17/2025,Arroz 99,875,17.27
+3/17/2025,Arroz 95,825,20.74
+3/17/2025,Arroz 80,750,10.96
+3/17/2025,Frijoles Negros,1300,26.54
+3/17/2025,Frijoles rojos,1300,29.3
+3/17/2025,Kalima,2800,25.34
+3/17/2025,Lentejas,1500,25.29
+3/17/2025,Garbanzos,1500,28.4
+3/17/2025,Cubases,4100,25.05
+3/17/2025,Frijol Matequilla,2400,16.23
+3/17/2025,Frijoles Blancos,1350,11.25
+3/17/2025,Frijoles ABA,2400,25.09
+3/17/2025,Harina,850,16.33
+3/17/2025,Masa,900,10.84
+3/17/2025,Masa Blanca,1250,20.98
+3/17/2025,Alberjas,1350,12.7
+3/17/2025,Palomitas de Maiz,1100,18.9
+3/17/2025,Maiz Blanco,600,21.37
+3/17/2025,Maiz Cascadp Blanco,800,29.47
+3/17/2025,Maiz Cascado Amarillo,800,12.11
+3/17/2025,Arroz Precocido,1100,23.42
+3/18/2025,Arroz 99,875,15.98
+3/18/2025,Arroz 95,825,19.94
+3/18/2025,Arroz 80,750,27.62
+3/18/2025,Frijoles Negros,1300,23.05
+3/18/2025,Frijoles rojos,1300,22.37
+3/18/2025,Kalima,2800,14.76
+3/18/2025,Lentejas,1500,25.78
+3/18/2025,Garbanzos,1500,19.3
+3/18/2025,Cubases,4100,22.18
+3/18/2025,Frijol Matequilla,2400,27.5
+3/18/2025,Frijoles Blancos,1350,23.25
+3/18/2025,Frijoles ABA,2400,14.04
+3/18/2025,Harina,850,18.45
+3/18/2025,Masa,900,10.07
+3/18/2025,Masa Blanca,1250,12.76
+3/18/2025,Alberjas,1350,29.61
+3/18/2025,Palomitas de Maiz,1100,22.16
+3/18/2025,Maiz Blanco,600,14.65
+3/18/2025,Maiz Cascadp Blanco,800,22.35
+3/18/2025,Maiz Cascado Amarillo,800,21.56
+3/18/2025,Arroz Precocido,1100,16.66
+3/19/2025,Arroz 99,875,19.88
+3/19/2025,Arroz 95,825,18.28
+3/19/2025,Arroz 80,750,23.22
+3/19/2025,Frijoles Negros,1300,10.79
+3/19/2025,Frijoles rojos,1300,18.26
+3/19/2025,Kalima,2800,19
+3/19/2025,Lentejas,1500,13.98
+3/19/2025,Garbanzos,1500,24.8
+3/19/2025,Cubases,4100,18.93
+3/19/2025,Frijol Matequilla,2400,16.16
+3/19/2025,Frijoles Blancos,1350,15.28
+3/19/2025,Frijoles ABA,2400,18.44
+3/19/2025,Harina,850,27.15
+3/19/2025,Masa,900,20.19
+3/19/2025,Masa Blanca,1250,13.19
+3/19/2025,Alberjas,1350,13.89
+3/19/2025,Palomitas de Maiz,1100,25.96
+3/19/2025,Maiz Blanco,600,23.39
+3/19/2025,Maiz Cascadp Blanco,800,23.55
+3/19/2025,Maiz Cascado Amarillo,800,27.23
+3/19/2025,Arroz Precocido,1100,28.26
+3/20/2025,Arroz 99,875,18.68
+3/20/2025,Arroz 95,825,11.01
+3/20/2025,Arroz 80,750,13.67
+3/20/2025,Frijoles Negros,1300,15.05
+3/20/2025,Frijoles rojos,1300,23.82
+3/20/2025,Kalima,2800,10.85
+3/20/2025,Lentejas,1500,27.3
+3/20/2025,Garbanzos,1500,10
+3/20/2025,Cubases,4100,25.31
+3/20/2025,Frijol Matequilla,2400,15.7
+3/20/2025,Frijoles Blancos,1350,28.02
+3/20/2025,Frijoles ABA,2400,28.93
+3/20/2025,Harina,850,12.09
+3/20/2025,Masa,900,23.6
+3/20/2025,Masa Blanca,1250,10.72
+3/20/2025,Alberjas,1350,19.08
+3/20/2025,Palomitas de Maiz,1100,18.38
+3/20/2025,Maiz Blanco,600,28.82
+3/20/2025,Maiz Cascadp Blanco,800,12.5
+3/20/2025,Maiz Cascado Amarillo,800,14.72
+3/20/2025,Arroz Precocido,1100,23.48
+3/21/2025,Arroz 99,875,12.89
+3/21/2025,Arroz 95,825,23.81
+3/21/2025,Arroz 80,750,20.85
+3/21/2025,Frijoles Negros,1300,22.97
+3/21/2025,Frijoles rojos,1300,26.48
+3/21/2025,Kalima,2800,28.23
+3/21/2025,Lentejas,1500,25.86
+3/21/2025,Garbanzos,1500,16.26
+3/21/2025,Cubases,4100,29.4
+3/21/2025,Frijol Matequilla,2400,12.7
+3/21/2025,Frijoles Blancos,1350,18.54
+3/21/2025,Frijoles ABA,2400,25.52
+3/21/2025,Harina,850,26.51
+3/21/2025,Masa,900,26.67
+3/21/2025,Masa Blanca,1250,22.58
+3/21/2025,Alberjas,1350,28.76
+3/21/2025,Palomitas de Maiz,1100,29.1
+3/21/2025,Maiz Blanco,600,29.98
+3/21/2025,Maiz Cascadp Blanco,800,14.77
+3/21/2025,Maiz Cascado Amarillo,800,21.83
+3/21/2025,Arroz Precocido,1100,19.94
+3/22/2025,Arroz 99,875,18.77
+3/22/2025,Arroz 95,825,12.16
+3/22/2025,Arroz 80,750,14.79
+3/22/2025,Frijoles Negros,1300,18.9
+3/22/2025,Frijoles rojos,1300,23.42
+3/22/2025,Kalima,2800,22.22
+3/22/2025,Lentejas,1500,22.57
+3/22/2025,Garbanzos,1500,15.81
+3/22/2025,Cubases,4100,16.99
+3/22/2025,Frijol Matequilla,2400,19.84
+3/22/2025,Frijoles Blancos,1350,29.12
+3/22/2025,Frijoles ABA,2400,27.08
+3/22/2025,Harina,850,18.88
+3/22/2025,Masa,900,25.82
+3/22/2025,Masa Blanca,1250,14.39
+3/22/2025,Alberjas,1350,13.44
+3/22/2025,Palomitas de Maiz,1100,26.16
+3/22/2025,Maiz Blanco,600,29.29
+3/22/2025,Maiz Cascadp Blanco,800,11.95
+3/22/2025,Maiz Cascado Amarillo,800,17.39
+3/22/2025,Arroz Precocido,1100,19.44
+3/23/2025,Arroz 99,875,11.81
+3/23/2025,Arroz 95,825,20.17
+3/23/2025,Arroz 80,750,14.22
+3/23/2025,Frijoles Negros,1300,20.98
+3/23/2025,Frijoles rojos,1300,27.06
+3/23/2025,Kalima,2800,16.59
+3/23/2025,Lentejas,1500,17.07
+3/23/2025,Garbanzos,1500,26.79
+3/23/2025,Cubases,4100,25.34
+3/23/2025,Frijol Matequilla,2400,25.68
+3/23/2025,Frijoles Blancos,1350,18.74
+3/23/2025,Frijoles ABA,2400,24.22
+3/23/2025,Harina,850,25.85
+3/23/2025,Masa,900,15.14
+3/23/2025,Masa Blanca,1250,27.38
+3/23/2025,Alberjas,1350,16.71
+3/23/2025,Palomitas de Maiz,1100,24.69
+3/23/2025,Maiz Blanco,600,12.41
+3/23/2025,Maiz Cascadp Blanco,800,13.55
+3/23/2025,Maiz Cascado Amarillo,800,26.15
+3/23/2025,Arroz Precocido,1100,26.27
+3/24/2025,Arroz 99,875,25.67
+3/24/2025,Arroz 95,825,16.92
+3/24/2025,Arroz 80,750,29.14
+3/24/2025,Frijoles Negros,1300,13.13
+3/24/2025,Frijoles rojos,1300,15.13
+3/24/2025,Kalima,2800,13.44
+3/24/2025,Lentejas,1500,23.7
+3/24/2025,Garbanzos,1500,13.69
+3/24/2025,Cubases,4100,16.98
+3/24/2025,Frijol Matequilla,2400,18.38
+3/24/2025,Frijoles Blancos,1350,25.59
+3/24/2025,Frijoles ABA,2400,22.25
+3/24/2025,Harina,850,15.05
+3/24/2025,Masa,900,21.57
+3/24/2025,Masa Blanca,1250,11.78
+3/24/2025,Alberjas,1350,14.08
+3/24/2025,Palomitas de Maiz,1100,29.86
+3/24/2025,Maiz Blanco,600,27.49
+3/24/2025,Maiz Cascadp Blanco,800,19.36
+3/24/2025,Maiz Cascado Amarillo,800,10.53
+3/24/2025,Arroz Precocido,1100,14.91
+3/25/2025,Arroz 99,875,29.24
+3/25/2025,Arroz 95,825,24.21
+3/25/2025,Arroz 80,750,17.74
+3/25/2025,Frijoles Negros,1300,27.14
+3/25/2025,Frijoles rojos,1300,11.67
+3/25/2025,Kalima,2800,14.31
+3/25/2025,Lentejas,1500,17.23
+3/25/2025,Garbanzos,1500,29.11
+3/25/2025,Cubases,4100,27.23
+3/25/2025,Frijol Matequilla,2400,19.16
+3/25/2025,Frijoles Blancos,1350,18.21
+3/25/2025,Frijoles ABA,2400,11.41
+3/25/2025,Harina,850,18.91
+3/25/2025,Masa,900,28.37
+3/25/2025,Masa Blanca,1250,25.8
+3/25/2025,Alberjas,1350,19.3
+3/25/2025,Palomitas de Maiz,1100,28.05
+3/25/2025,Maiz Blanco,600,10.28
+3/25/2025,Maiz Cascadp Blanco,800,13.49
+3/25/2025,Maiz Cascado Amarillo,800,18.71
+3/25/2025,Arroz Precocido,1100,18.45
+3/26/2025,Arroz 99,875,25.86
+3/26/2025,Arroz 95,825,24.12
+3/26/2025,Arroz 80,750,27.26
+3/26/2025,Frijoles Negros,1300,25.84
+3/26/2025,Frijoles rojos,1300,26.14
+3/26/2025,Kalima,2800,29.6
+3/26/2025,Lentejas,1500,21.01
+3/26/2025,Garbanzos,1500,13.75
+3/26/2025,Cubases,4100,24.13
+3/26/2025,Frijol Matequilla,2400,18.45
+3/26/2025,Frijoles Blancos,1350,16.2
+3/26/2025,Frijoles ABA,2400,29.84
+3/26/2025,Harina,850,10.55
+3/26/2025,Masa,900,17.64
+3/26/2025,Masa Blanca,1250,20.32
+3/26/2025,Alberjas,1350,18.01
+3/26/2025,Palomitas de Maiz,1100,11.39
+3/26/2025,Maiz Blanco,600,26.01
+3/26/2025,Maiz Cascadp Blanco,800,26.25
+3/26/2025,Maiz Cascado Amarillo,800,10.39
+3/26/2025,Arroz Precocido,1100,29.55
+3/27/2025,Arroz 99,875,13.28
+3/27/2025,Arroz 95,825,26.93
+3/27/2025,Arroz 80,750,10.95
+3/27/2025,Frijoles Negros,1300,17.5
+3/27/2025,Frijoles rojos,1300,19.24
+3/27/2025,Kalima,2800,13.05
+3/27/2025,Lentejas,1500,25.21
+3/27/2025,Garbanzos,1500,27.46
+3/27/2025,Cubases,4100,15.01
+3/27/2025,Frijol Matequilla,2400,27.89
+3/27/2025,Frijoles Blancos,1350,21.53
+3/27/2025,Frijoles ABA,2400,10.07
+3/27/2025,Harina,850,13.12
+3/27/2025,Masa,900,16.45
+3/27/2025,Masa Blanca,1250,23.06
+3/27/2025,Alberjas,1350,27.81
+3/27/2025,Palomitas de Maiz,1100,20.7
+3/27/2025,Maiz Blanco,600,18.54
+3/27/2025,Maiz Cascadp Blanco,800,21.53
+3/27/2025,Maiz Cascado Amarillo,800,21.23
+3/27/2025,Arroz Precocido,1100,26.59
+3/28/2025,Arroz 99,875,21.86
+3/28/2025,Arroz 95,825,29.63
+3/28/2025,Arroz 80,750,21.97
+3/28/2025,Frijoles Negros,1300,20.41
+3/28/2025,Frijoles rojos,1300,16.56
+3/28/2025,Kalima,2800,14.54
+3/28/2025,Lentejas,1500,27.27
+3/28/2025,Garbanzos,1500,17.19
+3/28/2025,Cubases,4100,22.68
+3/28/2025,Frijol Matequilla,2400,27.83
+3/28/2025,Frijoles Blancos,1350,17.51
+3/28/2025,Frijoles ABA,2400,26.07
+3/28/2025,Harina,850,11.44
+3/28/2025,Masa,900,15.23
+3/28/2025,Masa Blanca,1250,14.13
+3/28/2025,Alberjas,1350,22.04
+3/28/2025,Palomitas de Maiz,1100,16.72
+3/28/2025,Maiz Blanco,600,27.44
+3/28/2025,Maiz Cascadp Blanco,800,19.67
+3/28/2025,Maiz Cascado Amarillo,800,13.44
+3/28/2025,Arroz Precocido,1100,26.46
+3/29/2025,Arroz 99,875,20.86
+3/29/2025,Arroz 95,825,13.18
+3/29/2025,Arroz 80,750,13.52
+3/29/2025,Frijoles Negros,1300,26.89
+3/29/2025,Frijoles rojos,1300,27.72
+3/29/2025,Kalima,2800,23.73
+3/29/2025,Lentejas,1500,27.5
+3/29/2025,Garbanzos,1500,27.54
+3/29/2025,Cubases,4100,29.43
+3/29/2025,Frijol Matequilla,2400,26.15
+3/29/2025,Frijoles Blancos,1350,27.69
+3/29/2025,Frijoles ABA,2400,25.64
+3/29/2025,Harina,850,26.06
+3/29/2025,Masa,900,24.83
+3/29/2025,Masa Blanca,1250,18.51
+3/29/2025,Alberjas,1350,28.68
+3/29/2025,Palomitas de Maiz,1100,20
+3/29/2025,Maiz Blanco,600,10.47
+3/29/2025,Maiz Cascadp Blanco,800,19.37
+3/29/2025,Maiz Cascado Amarillo,800,23.52
+3/29/2025,Arroz Precocido,1100,21.79
+3/30/2025,Arroz 99,875,10.72
+3/30/2025,Arroz 95,825,19.29
+3/30/2025,Arroz 80,750,28.64
+3/30/2025,Frijoles Negros,1300,27.58
+3/30/2025,Frijoles rojos,1300,18.41
+3/30/2025,Kalima,2800,23.86
+3/30/2025,Lentejas,1500,16.45
+3/30/2025,Garbanzos,1500,29.78
+3/30/2025,Cubases,4100,15.75
+3/30/2025,Frijol Matequilla,2400,25.88
+3/30/2025,Frijoles Blancos,1350,23.99
+3/30/2025,Frijoles ABA,2400,23.21
+3/30/2025,Harina,850,26.4
+3/30/2025,Masa,900,19.25
+3/30/2025,Masa Blanca,1250,23.79
+3/30/2025,Alberjas,1350,13.24
+3/30/2025,Palomitas de Maiz,1100,28.79
+3/30/2025,Maiz Blanco,600,14.94
+3/30/2025,Maiz Cascadp Blanco,800,15
+3/30/2025,Maiz Cascado Amarillo,800,11.82
+3/30/2025,Arroz Precocido,1100,29.95
+3/31/2025,Arroz 99,875,10.1
+3/31/2025,Arroz 95,825,12.68
+3/31/2025,Arroz 80,750,27.58
+3/31/2025,Frijoles Negros,1300,24.56
+3/31/2025,Frijoles rojos,1300,10.66
+3/31/2025,Kalima,2800,16.9
+3/31/2025,Lentejas,1500,27.49
+3/31/2025,Garbanzos,1500,29.58
+3/31/2025,Cubases,4100,25.38
+3/31/2025,Frijol Matequilla,2400,26.03
+3/31/2025,Frijoles Blancos,1350,19.74
+3/31/2025,Frijoles ABA,2400,25.57
+3/31/2025,Harina,850,10.78
+3/31/2025,Masa,900,15.78
+3/31/2025,Masa Blanca,1250,10.89
+3/31/2025,Alberjas,1350,20.85
+3/31/2025,Palomitas de Maiz,1100,11.94
+3/31/2025,Maiz Blanco,600,13.33
+3/31/2025,Maiz Cascadp Blanco,800,18.11
+3/31/2025,Maiz Cascado Amarillo,800,23.6
+3/31/2025,Arroz Precocido,1100,16.53
